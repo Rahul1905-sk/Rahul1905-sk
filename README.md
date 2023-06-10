@@ -83,3 +83,6 @@
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/rahul1905-sk/count.svg" />
 </h3>
+---
+[![](https://visitcount.itsvg.in/api?id=Rahul1905-sk&icon=0&color=0)](https://visitcount.itsvg.in)
+
