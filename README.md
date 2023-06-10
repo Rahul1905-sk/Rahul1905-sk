@@ -73,7 +73,7 @@
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1905-sk&theme=dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=rahul1905-sk&theme=dark" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul1905-sk&theme=vue" alt="summarycard"/> </p>
+ 
 <hr />
 <h3 align="center">
  Show some ❤️ by staring some of the repositories!
@@ -83,6 +83,4 @@
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/rahul1905-sk/count.svg" />
 </h3>
----
-[![](https://visitcount.itsvg.in/api?id=Rahul1905-sk&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ 
