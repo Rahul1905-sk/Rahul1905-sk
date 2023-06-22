@@ -10,7 +10,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://rahul1905-sk.github.io/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something Interesting.
 
 - 🌱 I’m currently learning `MERN Stack`
 
@@ -76,7 +76,7 @@
  
 <hr />
 <h3 align="center">
- Show some ❤️ by staring some of the repositories!
+ Show some ❤️ by staring at some of the repositories!
 </h3>
 <br>
 <h3 align="center"> 
